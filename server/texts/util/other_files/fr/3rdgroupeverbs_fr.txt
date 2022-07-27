@@ -1,0 +1,608 @@
+aller
+s'en aller
+abattre
+s'abattre
+absoudre
+s'abstenir
+abstraire
+s'abstraire
+accourir
+accroître
+s'accroître
+accroire
+accueillir
+acquérir
+s'acquérir
+s'adire
+adjoindre
+s'adjoindre
+admettre
+advenir
+apercevoir
+s'apercevoir
+apparoir
+apparaître
+appartenir
+s'appartenir
+appendre
+apprendre
+s'apprendre
+ardre
+assaillir
+asseoir
+s'asseoir
+assavoir
+astreindre
+s'astreindre
+atteindre
+attendre
+s'attendre
+s'autodétruire
+avenir
+aveindre
+boire
+se boire
+battre
+se battre
+bienvenir
+bouillir
+braire
+bruire
+cuire
+ceindre
+se ceindre
+choir
+chaloir
+circoncire
+circonscrire
+se circonscrire
+circonvenir
+clore
+coudre
+combattre
+commettre
+se commettre
+comparaître
+comparoir
+complaire
+se complaire
+comprendre
+se comprendre
+compromettre
+se compromettre
+concevoir
+se concevoir
+conclure
+se conclure
+concourir
+conduire
+se conduire
+condescendre
+confire
+se confire
+confondre
+se confondre
+conjoindre
+connaître
+se connaître
+conquérir
+se conquérir
+consentir
+construire
+se construire
+contenir
+se contenir
+contraindre
+se contraindre
+contrebattre
+contredire
+se contredire
+contrefaire
+se contrefoutre
+contrevenir
+convenir
+se convenir
+convaincre
+se convaincre
+coproduire
+correspondre
+se correspondre
+corrompre
+se corrompre
+courir
+couvrir
+se couvrir
+courre
+croire
+se croire
+croître
+craindre
+cueillir
+devoir
+se devoir
+dire
+se dire
+décevoir
+débattre
+se débattre
+débouillir
+décuire
+déchoir
+déclore
+découdre
+se découdre
+décommettre
+déconfire
+déconstruire
+découvrir
+se découvrir
+décrire
+décroître
+dédire
+se dédire
+déduire
+se déduire
+défaillir
+défaire
+se défaire
+défendre
+se défendre
+démettre
+se démettre
+démentir
+se démentir
+démordre
+départir
+se départir
+dépeindre
+dépendre
+déplaire
+se déplaire
+dépourvoir
+se dépourvoir
+se déprendre
+désapprendre
+descendre
+desservir
+se desservir
+détenir
+déteindre
+détendre
+se détendre
+détordre
+détruire
+se détruire
+devenir
+dévêtir
+se dévêtir
+disconvenir
+discourir
+disjoindre
+se disjoindre
+disparaître
+dissoudre
+se dissoudre
+distendre
+se distendre
+distordre
+se distordre
+distraire
+se distraire
+dormir
+s'ébattre
+échoir
+éclore
+éconduire
+écrire
+s'écrire
+élire
+émettre
+émouvoir
+s'émouvoir
+emboire
+s'emboire
+embatre
+embattre
+émoudre
+empreindre
+s'empreindre
+enceindre
+enclore
+encourir
+enduire
+s'enduire
+endormir
+s'endormir
+enfreindre
+s'enfuir
+enjoindre
+s'enquérir
+s'ensuivre
+entendre
+s'entendre
+entrapercevoir
+s'entrapercevoir
+s'entre-détruire
+s'entre-nuire
+s'entre-soutenir
+s'entrebattre
+s'entredétruire
+s'entremettre
+s'entrenuire
+entreprendre
+entretenir
+s'entretenir
+entrevoir
+s'entrevoir
+entrouvrir
+s'entrouvrir
+épandre
+s'épandre
+s'éperdre
+s'éprendre
+épreindre
+équivaloir
+s'équivaloir
+ester
+éteindre
+s'éteindre
+étendre
+s'étendre
+étreindre
+s'étreindre
+exclure
+s'exclure
+extraire
+s'extraire
+faillir
+faire
+se faire
+falloir
+s'en falloir
+feindre
+fendre
+se fendre
+férir
+fondre
+se fondre
+forclore
+forfaire
+foutre
+se foutre
+frire
+fuir
+se fuir
+gésir
+geindre
+huir
+inclure
+s'inclure
+induire
+inscrire
+s'inscrire
+instruire
+s'instruire
+interdire
+s'interdire
+interrompre
+s'interrompre
+intervenir
+introduire
+s'introduire
+issir
+joindre
+se joindre
+lire
+se lire
+luire
+mettre
+se mettre
+mourir
+se mourir
+mouvoir
+se mouvoir
+mainmettre
+maintenir
+se maintenir
+malfaire
+maudire
+se méconduire
+méconnaître
+mécroire
+médire
+méfaire
+mentir
+se mentir
+se méprendre
+mésoffrir
+messeoir
+mévendre
+mordre
+se mordre
+morfondre
+se morfondre
+moudre
+naître
+nuire
+se nuire
+ouïr
+obtenir
+s'obtenir
+obvenir
+occire
+occlure
+s'occlure
+offrir
+s'offrir
+oindre
+s'oindre
+omettre
+ouvrir
+s'ouvrir
+paître
+pouvoir
+se pouvoir
+paraître
+partir
+parcourir
+parfaire
+parfondre
+parvenir
+peindre
+se peindre
+pendre
+se pendre
+percevoir
+perdre
+se perdre
+permettre
+se permettre
+plaire
+se plaire
+pleuvoir
+plaindre
+se plaindre
+poindre
+pondre
+portraire
+pourfendre
+poursuivre
+se poursuivre
+pourvoir
+se pourvoir
+prendre
+se prendre
+prédire
+prescrire
+se prescrire
+pressentir
+prétendre
+se prétendre
+prévenir
+prévoir
+se prévoir
+prévaloir
+se prévaloir
+produire
+se produire
+promettre
+se promettre
+promouvoir
+proscrire
+provenir
+quérir
+raire
+rire
+se rire
+rabattre
+se rabattre
+racabouillir
+ramentevoir
+se ramentevoir
+rapprendre
+rasseoir
+se rasseoir
+rassir
+se rassir
+ravoir
+recevoir
+se recevoir
+réadmettre
+réapparaître
+réapprendre
+rebattre
+recuire
+reclure
+recoudre
+se recoudre
+recomparaître
+reconduire
+reconnaître
+se reconnaître
+reconquérir
+reconstruire
+recourir
+recouvrir
+se recouvrir
+récrire
+recroître
+recueillir
+se recueillir
+redevoir
+redire
+réduire
+se réduire
+redécouvrir
+redéfaire
+redescendre
+redevenir
+redissoudre
+se redissoudre
+réécrire
+réélire
+réentendre
+refaire
+se refaire
+refendre
+refondre
+refoutre
+refuir
+réinscrire
+se réinscrire
+réintroduire
+rejoindre
+se rejoindre
+relire
+se relire
+reluire
+remettre
+se remettre
+remordre
+remoudre
+renaître
+rendre
+se rendre
+rendormir
+se rendormir
+rentraire
+rentrouvrir
+repaître
+se repaître
+répandre
+se répandre
+reparaître
+repartir
+repeindre
+se repentir
+rependre
+reperdre
+repleuvoir
+répondre
+se répondre
+reprendre
+se reprendre
+reproduire
+se reproduire
+requérir
+résoudre
+se résoudre
+ressentir
+se ressentir
+resservir
+se resservir
+ressortir
+se ressouvenir
+restreindre
+se restreindre
+retenir
+se retenir
+reteindre
+retendre
+retondre
+retordre
+retraire
+retraduire
+retranscrire
+retransmettre
+retreindre
+rétreindre
+revenir
+s'en revenir
+revivre
+revoir
+se revoir
+revouloir
+revaloir
+revendre
+se revendre
+revêtir
+se revêtir
+rompre
+se rompre
+rouvrir
+se rouvrir
+saillir
+savoir
+se savoir
+seoir
+satisfaire
+se satisfaire
+secourir
+séduire
+sentir
+se sentir
+servir
+se servir
+sortir
+se sortir
+soubattre
+souffrir
+se souffrir
+soumettre
+se soumettre
+sourdre
+sourire
+se sourire
+sous-entendre
+sous-tendre
+souscrire
+soustraire
+se soustraire
+soutenir
+se soutenir
+se souvenir
+stupéfaire
+subvenir
+suffire
+se suffire
+suivre
+se suivre
+sur-aller
+surfaire
+surprendre
+se surprendre
+surproduire
+surseoir
+surtondre
+survenir
+survivre
+se survivre
+survêtir
+suspendre
+se suspendre
+taire
+se taire
+tenir
+se tenir
+teindre
+se teindre
+tendre
+se tendre
+tondre
+tordre
+se tordre
+traire
+traduire
+se traduire
+transcrire
+transmettre
+se transmettre
+transparaître
+tréfondre
+tressaillir
+venir
+s'en venir
+vivre
+voir
+se voir
+vouloir
+se vouloir
+s'en vouloir
+valoir
+se valoir
+vaincre
+se vaincre
+vendre
+se vendre
+vêtir
+se vêtir
