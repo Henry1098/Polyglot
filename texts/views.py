@@ -9,14 +9,14 @@ from rest_framework.decorators import api_view
 from .models import MyTexts
 from .serializers import TextSerializer
 from accounts.models import Learner
-from .utilities import Utilities
+#from .utilities import Utilities
 
 @api_view(['GET'])
 def lang_list_user(request):
-    util=Utilities()
-    data={"data":util.am("በኢትዮጵያ ጉብኝት ያደረጉት የአውሮፓ ኅብረት ከፍተኛ ባለሥልጣን፣ መንግሥት በትግራይ ለአንድ ዓመት ያህል ተቋርጠው የቆዩት መሠረታዊ አገልግሎቶች መልሰው እንዲጀመሩ ማድረግ አለበት አሉ።")}
-    data=json.dumps(data,ensure_ascii=False)
-    print(data)
+    #util=Utilities()
+    #data={"data":util.am("በኢትዮጵያ ጉብኝት ያደረጉት የአውሮፓ ኅብረት ከፍተኛ ባለሥልጣን፣ መንግሥት በትግራይ ለአንድ ዓመት ያህል ተቋርጠው የቆዩት መሠረታዊ አገልግሎቶች መልሰው እንዲጀመሩ ማድረግ አለበት አሉ።")}
+    #data=json.dumps(data,ensure_ascii=False)
+    #print(data)
     txt=MyTexts.objects.filter(TxtUser=request.user.id)
     txtseriaizer=TextSerializer(txt,many=True)
     return Response(status=status.HTTP_200_OK, data=txtseriaizer.data)
